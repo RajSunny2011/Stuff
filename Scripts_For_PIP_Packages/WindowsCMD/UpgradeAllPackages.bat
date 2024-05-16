@@ -1,3 +1,5 @@
+REM Batch script to upgrade all pip packages installed
+
 @echo off
 echo Upgrading all pip packages...
 
